@@ -1,4 +1,4 @@
-## How to pass the child state into parent component?
+## How to pass the child state into parent component? WITHOUT CONTEXT-API or REDUX
 
 
 
