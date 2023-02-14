@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 const Child = ({ onStateChange }) => {
+    // Just a normal useState hook
   const [state, setState] = useState("");
 
 // If you want to update the parent state whenever child state changes in real-time : Use Line 7 
