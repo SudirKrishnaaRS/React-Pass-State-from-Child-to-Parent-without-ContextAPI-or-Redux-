@@ -4,6 +4,12 @@
 
 https://user-images.githubusercontent.com/67383465/218669243-7ff86f81-0f1e-4418-9234-fe02d0d38beb.mp4
 
+# Approach :
+
+The method used to pass the child state to a parent component is known as "lifting state up". This is a common pattern in React, where a parent component manages the state of one or more child components, and the child components notify the parent component of state changes through callback functions passed as props.
+
+By lifting state up to a common ancestor, it makes it easier to share data between components and keep the state of the application in one central location. This can help simplify the application's logic and make it easier to reason about the code.
+
 
 
 # Solution : 
